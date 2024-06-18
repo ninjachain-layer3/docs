@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrunnerty=self.webpackChunkrunnerty||[]).push([[3852],{346:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/ninjadrop","name":"Ninjadrop","count":1,"permalink":"/blog/tags/ninjadrop"}')}}]);

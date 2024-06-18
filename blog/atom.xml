@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Ninjachain.xyz/blog</id>
+    <title>  Blog</title>
+    <updated>2024-06-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Ninjachain.xyz/blog"/>
+    <subtitle>  Blog</subtitle>
+    <icon>https://Ninjachain.xyz/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Ninjadrop]]></title>
+        <id>Ninjadrop</id>
+        <link href="https://Ninjachain.xyz/blog/Ninjadrop"/>
+        <updated>2024-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Airdrop ninjachain.]]></summary>
+        <content type="html"><![CDATA[<hr><p><strong>Ninjachain </strong>  is holding an airdrop community which we named ninjadrop. The ninjachain airdrop is determined at 30% of the total ninjacoin supply, amounting to 3B NINJA. Aims to expand the use of ninjachain in the pre-mainnet phase.</p><ul><li><p><a href="/blog/docs/ninja-coin">Ninjacoin supply</a></p></li><li><p><a href="https://scaninja.xyz/address/0x35D78F6e7C2Fc72c1C84FdbE00871783D38cDfB9" target="_blank" rel="noopener noreferrer">Ninjadrop contract</a></p></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="get-airdrop-ninjacoin">Get airdrop Ninjacoin<a class="hash-link" href="#get-airdrop-ninjacoin" title="Direct link to heading">​</a></h2><p><strong>Step 1.</strong> Follow telegram and twitter Ninjachain.</p><p><strong>Step 2.</strong> Need eth address like <a href="/blog/docs/setup-install-metamask">Metamask</a>.</p><p><strong>Step 3.</strong> <a href="/blog/docs/add-ninjachain-network">Add Ninjachain network</a>.</p><p><strong>Step 4.</strong> Go to <a href="https://ninjadrop.42web.io/" target="_blank" rel="noopener noreferrer">Ninjadrop website</a>  and claim 5 USDT tokens.</p><p><img alt="Ninjadrop " src="/assets/images/ninjadrop-2c644928b19cea1267885e1f5418430e.png" width="1294" height="732"></p><blockquote><p>Claim 5 USDT every day until ninjadrop ends.</p></blockquote><p><strong>Step 5.</strong> Buy Ninjacoin with 5 USDT in <a href="https://swapmurai.42web.io/" target="_blank" rel="noopener noreferrer">Swapmurai</a>. </p><p><img alt="Swapmurai " src="/assets/images/Swapmurai-158a005e261fe059dcc308c2d9816d14.png" width="1294" height="736"></p><blockquote><p>Enter swap app.</p></blockquote><p><img alt="Swapmurai2 " src="/assets/images/Swapmurai2-6afc18ee1e6e0c482f3720f79d9c0850.png" width="1294" height="736"></p><blockquote><ol><li>connect wallet.</li><li>Approve USDT.
+When the spending cap column appears, fill in the amount of USDT you want to exchange (5 USDT).</li><li>Always refresh browser if swap button is not appear.</li><li>Swap USDT for NINJA.</li></ol></blockquote><div class="admonition admonition-tip alert alert--success"><div class="admonition-heading"><h5><span class="admonition-icon"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</h5></div><div class="admonition-content"><p>Get some NINJA testnet for transaction in <a href="https://faucet.scaninja.xyz/" target="_blank" rel="noopener noreferrer">here.</a>.</p></div></div><p><strong>Step 6.</strong> Hold Ninjacoin on to your wallet until the mainnet airdrop is distributed.</p>]]></content>
+        <category label="Airdrop" term="Airdrop"/>
+        <category label="Ninjadrop" term="Ninjadrop"/>
+        <category label="Ninjachain" term="Ninjachain"/>
+        <category label="Layer 3" term="Layer 3"/>
+    </entry>
+</feed>

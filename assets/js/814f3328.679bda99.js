@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrunnerty=self.webpackChunkrunnerty||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Ninjadrop","permalink":"/blog/Ninjadrop"}]}')}}]);
